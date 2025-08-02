@@ -1,0 +1,7 @@
+{
+    "name": "caobjects",
+    "version": "1.0.0",
+    "devDependencies": {
+        "typescript": "^5.9.2"
+    }
+}
