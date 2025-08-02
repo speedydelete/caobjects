@@ -3,6 +3,7 @@
         "lib": ["ESNext"],
         "module": "NodeNext",
         "rootDir": "src",
-        "outDir": "lib"
+        "outDir": "lib",
+        "strict": true
     }
 }
